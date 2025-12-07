@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "phy derivation",
+      "estimated_hours": 2.0,
+      "completed": false,
+      "created_date": "2025-12-05",
+      "completed_date": null
+    },
+    {
+      "id": 2,
+      "name": "maths PDE",
+      "estimated_hours": 3.0,
+      "completed": true,
+      "created_date": "2025-12-05",
+      "completed_date": "2025-12-05"
+    },
+    {
+      "id": 3,
+      "name": "python coding",
+      "estimated_hours": 2.0,
+      "completed": true,
+      "created_date": "2025-12-05",
+      "completed_date": "2025-12-05"
+    },
+    {
+      "id": 4,
+      "name": "electrical problems",
+      "estimated_hours": 2.0,
+      "completed": false,
+      "created_date": "2025-12-05",
+      "completed_date": null
+    }
+  ]
+}
